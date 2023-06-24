@@ -1,1 +1,2 @@
-# POEC-DATA-ANALYST
+Dans le but de compléter mon profil DATA pour mieux comprendre tous les enjeux fonctinnels et techniques des projet Data en entreprise, je suis entré en formation en Data Analytics dans financée par pole emploi via son propgramme de POEC (Préparation Opérationnelle à l'Emploi Collectif). 
+Dans cette formation, j'apprends de nouvelles compétences techniques et fonctionnelles (exemple Les SI dans les détails, les BD NOSQL, l'Ingénierie des exigences, réalisation de cahier de charge cycle de vie d'un projet data, les méthodologies,  etc.) mais aussi je complète avec certains détails sur des technologies déjà utilisées avant. 
